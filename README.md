@@ -6,7 +6,10 @@ Hey I'm Shankar Tiwari<br>I am a Full Stack Engineer🏛️.<br> I am building c
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/shankar-tiwari-171973199/) 
 
 # 💻 Tech Stack:
-![C++]
+Languages : Javascript/Typescript , C++ , Python , Rust(beginner) .
+Framework/Library : Reactjs/Nextjs , Svelte , Nodejs ,  Django Rest Framework .
+LLM : agent-system , function-calling , Prompt Engineering , Rag(Retrieval augemented system).
+Database :  Mongodb , Postgres , Vector database (pinecone , qdrant).
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey I'm Shankar Tiwari<br>I am a Full Stack Engineer🏛️.<br> I am building chat.collectivai.com 🚀 and doing Open Source Contribution 💻.
+Hey I'm Shankar Tiwari<br>I am a Full Stack Engineer🏛️.<br> I am building chat.collectivai.com 🚀 .
 
 
 ## 🌐 Socials:

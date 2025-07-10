@@ -2,9 +2,6 @@
 Hey I'm Shankar Tiwari<br>I am a Full Stack Engineer🏛️.<br> I am building chat.collectivai.com 🚀 .
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/shankar-tiwari-171973199/) 
-
 # 💻 Tech Stack:
 Languages : Javascript/Typescript , C++ , Python , Rust(beginner) .<br>
 Framework/Library : Reactjs/Nextjs , Svelte , Nodejs ,  Django Rest Framework .<br>

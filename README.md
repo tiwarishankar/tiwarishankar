@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hey I'm Shankar Tiwari<br>I am a Full Stack Engineer🏛️.<br> I am building chat.collectivai.com 🚀 .
-
+Hey I'm Shankar Tiwari<br>I am a Full Stack Engineer🏛️.
 
 # 💻 Tech Stack:
 Languages : Javascript/Typescript , C++ , Python , Rust(beginner) .<br>
